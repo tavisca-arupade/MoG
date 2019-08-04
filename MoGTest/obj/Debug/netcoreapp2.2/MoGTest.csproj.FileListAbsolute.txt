@@ -1,0 +1,17 @@
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\MoGTest.deps.json
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\MoGTest.runtimeconfig.json
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\MoGTest.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\MoGTest.dll
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\MoGTest.pdb
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\MoG.dll
+C:\Users\arupade\source\repos\MoG\MoGTest\bin\Debug\netcoreapp2.2\MoG.pdb
+C:\Users\arupade\source\repos\MoG\MoGTest\obj\Debug\netcoreapp2.2\MoGTest.csprojAssemblyReference.cache
+C:\Users\arupade\source\repos\MoG\MoGTest\obj\Debug\netcoreapp2.2\MoGTest.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\MoG\MoGTest\obj\Debug\netcoreapp2.2\MoGTest.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\MoG\MoGTest\obj\Debug\netcoreapp2.2\MoGTest.AssemblyInfo.cs
+C:\Users\arupade\source\repos\MoG\MoGTest\obj\Debug\netcoreapp2.2\MoGTest.csproj.CopyComplete
+C:\Users\arupade\source\repos\MoG\MoGTest\obj\Debug\netcoreapp2.2\MoGTest.dll
+C:\Users\arupade\source\repos\MoG\MoGTest\obj\Debug\netcoreapp2.2\MoGTest.pdb

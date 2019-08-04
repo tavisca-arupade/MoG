@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\MoG\MoG\bin\Debug\netcoreapp2.2\MoG.deps.json
+C:\Users\arupade\source\repos\MoG\MoG\bin\Debug\netcoreapp2.2\MoG.runtimeconfig.json
+C:\Users\arupade\source\repos\MoG\MoG\bin\Debug\netcoreapp2.2\MoG.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\MoG\MoG\bin\Debug\netcoreapp2.2\MoG.dll
+C:\Users\arupade\source\repos\MoG\MoG\bin\Debug\netcoreapp2.2\MoG.pdb
+C:\Users\arupade\source\repos\MoG\MoG\obj\Debug\netcoreapp2.2\MoG.csprojAssemblyReference.cache
+C:\Users\arupade\source\repos\MoG\MoG\obj\Debug\netcoreapp2.2\MoG.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\MoG\MoG\obj\Debug\netcoreapp2.2\MoG.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\MoG\MoG\obj\Debug\netcoreapp2.2\MoG.AssemblyInfo.cs
+C:\Users\arupade\source\repos\MoG\MoG\obj\Debug\netcoreapp2.2\MoG.dll
+C:\Users\arupade\source\repos\MoG\MoG\obj\Debug\netcoreapp2.2\MoG.pdb
